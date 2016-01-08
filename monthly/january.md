@@ -7,6 +7,8 @@
 :white_medium_square: Try Something New
 <br>
 :white_medium_square: Build a Thing
+<br>
+:white_medium_square: Reflect at the end of the month
 <br><br><br>
 <hr>
 <br>
