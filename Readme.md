@@ -2,6 +2,8 @@
 
 <h6>:bulb: <i>Inspired by <a href="https://github.com/una/personal-goals">Una Kravetz's Open Source Goals</a></i></h6>
 
+This is a place for me to list my goals and accomplishments. Since these goals are open source, I'm hoping that I will be encouraged to finish my goals every month. I have 'Big Goals' and 'Monthly Goals', but this format may change as the year progresses.
+
 <br>
 
 <h2>Big Goals for 2016</h2>
