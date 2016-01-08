@@ -16,3 +16,4 @@
 * Watch (at least) 1 movie a month
 * Try something new
 * Build a Thing
+* Reflect at the end of the month
