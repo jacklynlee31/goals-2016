@@ -10,3 +10,4 @@
 <h6>Rachel Platten: Stand By You, Fight Song, Astronauts</h6>
 <h6>4Minute: Crazy, Cut It Out</h6>
 <h6>2NE1: CRUSH, I Am The Best</h6>
+<h6>Grimes: Art Angels (album)</h6>
