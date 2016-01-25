@@ -8,8 +8,15 @@ This is a place for me to list my goals and accomplishments. Since these goals a
 
 <h2>Big Goals for 2016</h2>
 * Learn as much as I can about PHP & Laravel
+  - watch at least one Laracast vid per week
+  - practice building Laravel & PHP apps in downtime
 * Rebuild my Personal Website (combination of portfolio, resume & blog posts)
+  - focus on making the website easy to navigate & minimal
+  - create a simple Wordpress theme that can be easily modified in the future
+  - transfer over only things of note (probably not blog posts)
 * Focus on maintaining my health (mental, physical, etc.)
+  - remember to relax & breathe
+  - remember to listen to what your body is telling you
 
 <br>
 
@@ -17,5 +24,6 @@ This is a place for me to list my goals and accomplishments. Since these goals a
 * Read (at least) 1 book a month
 * Watch (at least) 1 movie a month
 * Try something new
+  - (this is way too broad & either needs to be changed or deleted altogether)
 * Build a Thing
 * Reflect at the end of the month
