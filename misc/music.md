@@ -11,3 +11,5 @@
 <h6>4Minute: Crazy, Cut It Out</h6>
 <h6>2NE1: CRUSH, I Am The Best</h6>
 <h6>Grimes: Art Angels (album)</h6>
+<h6>Rihanna: ANTI (album)</h6>
+<h6>Melanie Martinez: Cry Baby (album)</h6>
