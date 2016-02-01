@@ -6,7 +6,7 @@ This is a place for me to list my goals and accomplishments. Since these goals a
 
 <br>
 
-:purple_heart: <h2>January 31 - February 6</h2>
+<h2>:purple_heart: January 31 - February 6</h2>
 * Plan out new project: 'Do the Thing'
 * Finish Watching Laracast series on Object-Oriented programming in PHP
 * Complete any fixes on Wedding website for K&B
