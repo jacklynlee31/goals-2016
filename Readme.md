@@ -6,6 +6,23 @@ This is a place for me to list my goals and accomplishments. Since these goals a
 
 <br>
 
+<h2>January 31 - February 6</h2>
+* Plan out new project: 'Do the Thing'
+* Finish Watching Laracast series on Object-Oriented programming in PHP
+* Complete any fixes on Wedding website for K&B
+
+<br>
+
+<h2>Monthly Goals</h2>
+* Read (at least) 1 book
+* Watch (at least) 1 movie
+* Try something new (?)
+  - (this is way too broad & either needs to be changed or deleted altogether)
+* Build a Thing
+* Reflect at the end of the month
+
+<br>
+
 <h2>Big Goals for 2016</h2>
 * Learn as much as I can about PHP & Laravel
   - watch at least one Laracast vid per week
@@ -17,13 +34,3 @@ This is a place for me to list my goals and accomplishments. Since these goals a
 * Focus on maintaining my health (mental, physical, etc.)
   - remember to relax & breathe
   - remember to listen to what your body is telling you
-
-<br>
-
-<h2>Monthly</h2>
-* Read (at least) 1 book a month
-* Watch (at least) 1 movie a month
-* Try something new
-  - (this is way too broad & either needs to be changed or deleted altogether)
-* Build a Thing
-* Reflect at the end of the month
