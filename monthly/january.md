@@ -12,4 +12,6 @@
 <br><br><br>
 <hr>
 <br>
+<h2>January Reflection</h2>:
+<br>
 January was interesting. Through starting this project I learned what I focus on and why. I learned what distracts me and what keeps me focused. I completed everything on my list except for reading a book. I thought it would be one of the easier items on my list, but I kept putting it off in lieu of other things. I may have to go back and edit the original list. Or, who knows, the list could be totally different from month to month. Spending more time focusing on learning new things, whether it be through watching more coding videos, creating new side projects, or reading a new book, are the things that need to be important.
