@@ -14,6 +14,5 @@
 <h6>Rihanna: ANTI (album)</h6>
 <h6>Melanie Martinez: Cry Baby (album)</h6>
 <br><br>
-<hr>
 <h3>February</h3>
 <h6>ZAYN: Pillowtalk</h6>
