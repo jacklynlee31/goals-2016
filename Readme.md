@@ -9,6 +9,16 @@ This is a place for me to list my goals and accomplishments. Since these goals a
 <h2>:purple_heart: January 31 - February 6</h2>
 * Plan out new project: 'Do the Thing'
 * Finish Watching Laracast series on Object-Oriented programming in PHP
+  * <s>Classes</s>
+  * <s>Getters and Setters</s>
+  * <s>Encapsulation</s>
+  * <s>Inheritance</s>
+  * <s>Messages 101</s>
+  * Namespacing & Autoloading
+  * Statics and Constants
+  * Interfaces
+  * Interfaces vs Abstract Classes
+  * Review
 * Complete any fixes on Wedding website for K&B
 
 <br>
