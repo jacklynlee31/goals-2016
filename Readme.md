@@ -20,7 +20,8 @@ This is a place for me to list my goals and accomplishments. Since these goals a
   * Interfaces vs Abstract Classes
   * Review
 * Complete any fixes on Wedding website for K&B
-* Create GitBook for frequently used code & questions
+* <s>Create GitBook for frequently used code & questions</s>
+     * https://jacklynlee31.gitbooks.io/things-to-remember/content/
 
 <br>
 
