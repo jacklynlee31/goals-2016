@@ -15,7 +15,7 @@ I decided to do a weekly list to keep me motivated and to add another layer of a
   * <s>Encapsulation</s>
   * <s>Inheritance</s>
   * <s>Messages 101</s>
-  * Namespacing & Autoloading
+  * <s>Namespacing & Autoloading</s>
   * Statics and Constants
   * Interfaces
   * Interfaces vs Abstract Classes
