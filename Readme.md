@@ -8,7 +8,7 @@ I decided to do a weekly list to keep me motivated and to add another layer of a
 <br>
 
 <h2>:purple_heart: January 31 - February 6</h2>
-* Plan out new project: 'Do the Thing'
+* <s>Plan out new project: 'Do the Thing'</s>
 * Finish Watching Laracast series on Object-Oriented programming in PHP
   * <s>Classes</s>
   * <s>Getters and Setters</s>
@@ -20,7 +20,7 @@ I decided to do a weekly list to keep me motivated and to add another layer of a
   * Interfaces
   * Interfaces vs Abstract Classes
   * Review
-* Complete any fixes on Wedding website for K&B
+* <s>Complete any fixes on Wedding website for K&B</s>
 * <s>Create GitBook for frequently used code & questions</s>
      * https://jacklynlee31.gitbooks.io/things-to-remember/content/
 
