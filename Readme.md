@@ -7,22 +7,22 @@ This is a place for me to list my goals and accomplishments. Since these goals a
 I decided to do a weekly list to keep me motivated and to add another layer of accountability.
 <br>
 
-<h2>:purple_heart: January 31 - February 6</h2>
-* <s>Plan out new project: 'Do the Thing'</s>
-* Finish Watching Laracast series on Object-Oriented programming in PHP
-  * <s>Classes</s>
-  * <s>Getters and Setters</s>
-  * <s>Encapsulation</s>
-  * <s>Inheritance</s>
-  * <s>Messages 101</s>
-  * <s>Namespacing & Autoloading</s>
-  * <s>Statics and Constants</s>
+<h2>:v: February 7 - February 13</h2>
+* 'Do the Thing' Project
+  * Build out simple CRUD for Todos, Events, Steps, Lists
+  * Take note of process/thoughts while building project
+* Finish Watching Laracast on Object-Oriented Programming in PHP
   * Interfaces
   * Interfaces vs Abstract Classes
   * Review
-* <s>Complete any fixes on Wedding website for K&B</s>
-* <s>Create GitBook for frequently used code & questions</s>
-     * https://jacklynlee31.gitbooks.io/things-to-remember/content/
+* Laracasts on Laravel 5 Fundamentals (Review)
+  * Routing, Controllers and Views
+  * Passing Data to Views
+  * Blade 101
+  * Environments and Configuration
+  * Migrations
+  * Eloquent 101
+* Continue adding to GitBook: https://jacklynlee31.gitbooks.io/things-to-remember/content/
 
 <br>
 
