@@ -12,7 +12,7 @@ I decided to do a weekly list to keep me motivated and to add another layer of a
   * Build out simple CRUD for Todos, Events, Steps, Lists
   * Take note of process/thoughts while building project
 * Finish Watching Laracast on Object-Oriented Programming in PHP
-  * Interfaces
+  * <s>Interfaces</s>
   * Interfaces vs Abstract Classes
   * Review
 * Laracasts on Laravel 5 Fundamentals (Review)
